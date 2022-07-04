@@ -4,22 +4,22 @@
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Constributions](#contributions)
+  * [Contributions](#contributions)
   * [Testing](#testing)
   * [License](#license)
   * [Questions](#questions)
 
   ## Description
-  A command line application that generates a descriptive README based on user input. Captures project title, description, usage, installation, tests, contributions, licensing, and links for questions. 
+  A command line application that generates a descriptive README based on user input. Captures project title, description, installation, usage, contributions, testing, licensing, and links for questions.
   
   ## Installation
-  Open terminal: clone the repository, run "npm install", ensure you have inquirer installed, run the application with "node index".
+  Open terminal: clone the repository, run "npm install", ensure you have 'inquirer' installed, run the application with "node index".
 
   ## Usage
-  Answer the question prompts then view your newly generated README.md! Save time on creating a readme and spend more time working on your project. 
+  Answer the question prompts and then view your newly generated README.md!
 
   ## Contributions
-  shield.io for badges
+  shields.io for badges
 
   ## Testing
   N/A

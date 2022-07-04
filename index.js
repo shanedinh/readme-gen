@@ -50,7 +50,7 @@ const questions = [
     {
         type: 'input',
         name: 'usage',
-        message: 'Please provide instructions and examples for use',
+        message: 'Please provide instructions and examples for use.',
         validate: usageInput => {
             if (usageInput) {
                 return true;
@@ -78,7 +78,16 @@ const questions = [
     {
         type: 'input',
         name: 'test',
-        message: 'Please enter testing instructions, if any.'
+        message: 'Please enter testing instructions, if any. N/A for none.',
+        validate: testInput => {
+            if (testInput) {
+                return true;
+            }
+            else {
+                console.log('Enter N/A if no testing instructions.');
+                return false;
+            }
+        }
     },
     {
         type: 'list',
