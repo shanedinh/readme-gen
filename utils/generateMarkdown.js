@@ -74,6 +74,9 @@ function generateMarkdown(data) {
   ## Credits
   ${data.credits}
 
+  ## Testing
+  ${data.test}
+
   ## License
   ${renderLicenseBadge(data.license)}
 
