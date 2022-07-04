@@ -1,34 +1,37 @@
 
-  # README generator
+  # a
 
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Credits](#credits)
-  * [Testing](#test)
+  * [Constributions](#contributions)
+  * [Testing](#testing)
   * [License](#license)
   * [Questions](#questions)
 
   ## Description
-  A command line application that generates a descriptive README based on user input. Captures project title, description, installation, usage, testing, contributions, liscensing, and links for questions.
+  a
   
   ## Installation
-  Open terminal: clone the repository, run "npm install", ensure you have 'inquirer' installed, run the application with "node index".
+  a
 
   ## Usage
-  Answer the question prompts then view your newly generated README.md! Less time worrying about creating a readme and more time to work on your projects. 
+  a
 
-  ## Credits
+  ## Contributions
   undefined
 
+  ## Testing
+  a
+
   ## License
-  ![License: MIT](https://img.shields.io/badge/license-MIT-green?style=for-the-badge&logo=appveyor)
+  ![License: Apache](https://img.shields.io/badge/license-Apache-green?style=for-the-badge&logo=appveyor)
 
   #### For additonal information: <br>
-  MIT:
-  https://opensource.org/licenses/MIT
+  Apache:
+  https://opensource.org/licenses/Apache-2.0
 
   ## Questions
-  * GitHub: [shanedinh](https://github.com/shanedinh)
-  * Email: [shane.dinh5@gmail.com](mailto:shane.dinh5@gmail.com)
+  * GitHub: [a](https://github.com/a)
+  * Email: [a](mailto:a)
 
