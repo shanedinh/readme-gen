@@ -76,6 +76,11 @@ const questions = [
         }
     },
     {
+        type: 'input',
+        name: 'test',
+        message: 'Please enter testing instructions, if any.'
+    },
+    {
         type: 'list',
         name: 'license',
         message: 'Please choose the correct license for your project. If you need help, please refer to (https://choosealicense.com/)',
@@ -124,7 +129,7 @@ function init() {
         console.log(fileContent);
         fs.writeFile('./README.md', fileContent, function(err) {
             if (err) throw err
-            console.log("Success!");
+            console.log("README.md created!");
         }
         )
     })

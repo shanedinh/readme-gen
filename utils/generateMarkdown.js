@@ -58,6 +58,7 @@ function generateMarkdown(data) {
   * [Installation](#installation)
   * [Usage](#usage)
   * [Credits](#credits)
+  * [Testing](#test)
   * [License](#license)
   * [Questions](#questions)
 
