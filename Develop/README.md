@@ -1,8 +1,5 @@
 
-  # asasa
-
-  ## Description
-  saa
+  # a
 
   ## Table of Contents
   * [Installation](#installation)
@@ -11,7 +8,26 @@
   * [License](#license)
   * [Questions](#questions)
 
+  ## Description
+  a
+  
+  ## Installation
+  a
+
+  ## Usage
+  a
+
+  ## Credits
+  undefined
+
+  ## License
+  ![License: MIT](https://img.shields.io/badge/license-MIT-green?style=for-the-badge&logo=appveyor)
+
+  ##### For additonal information: <br>
+  MIT
+  https://opensource.org/licenses/MIT
+
   ## Questions
-  * GitHub: asdasd
-  * Email: asdad
+  * GitHub: a
+  * Email: a
 

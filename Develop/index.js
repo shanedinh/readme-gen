@@ -78,8 +78,8 @@ const questions = [
     {
         type: 'list',
         name: 'license',
-        message: 'Please choose the correct license for your project. If you need help, please refer to [https://choosealicense.com/](https://choosealicense.com/)',
-        choices: ['Apache', 'GNU', 'GPL', 'MIT', 'None']
+        message: 'Please choose the correct license for your project. If you need help, please refer to (https://choosealicense.com/)',
+        choices: ['Apache', 'GPL', 'MIT', 'Public Domain', 'None']
     },
     {
         type: 'input',
