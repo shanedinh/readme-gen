@@ -56,7 +56,7 @@ const questions = [
                 return true;
             }
             else {
-                console.log('I think you are forgot to tell us how to use this...');
+                console.log('I think you forgot to tell us how to use this...');
                 return false;
             }
         }
